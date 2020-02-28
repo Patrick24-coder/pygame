@@ -1,0 +1,70 @@
+.pagecontent {
+    width: 98%;
+    max-width: 960px;
+    margin: auto; 
+} 
+
+h1{
+font-weight: 300;
+font-size: 48pt;
+color: rgb(56, 17, 228);
+}
+
+.line{     
+width: 100%;
+border-bottom: 2px solid rgb(99, 238, 99); 
+} 
+
+.image-wraper { 
+width: 25%;     
+float: left; 
+}
+
+.text-wraper {
+width: 74%;
+float: right;
+margin-top: 20px;
+padding-bottom: 20px; 
+}
+.text-wrapper ol{
+    margin-top: 20px;
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+}
+
+.cover-image {
+max-width: 150px;
+width: 90%;
+padding: 5%;
+margin: auto;
+margin-top: 20px;
+display: block; 
+} 
+ 
+ 
+
+ 
+ 
+ 
+.clear{
+clear: 
+both; 
+} 
+ 
+ 
+ 
+ 
+.line.light { 
+    border-bottom: 2px solid rgb(99, 238, 99); 
+} 
+ 
+input {
+    border: 0px;
+    background-color:rgb(208, 236, 108);
+        font-size: 48pt;
+        width: 600px;
+        font-family: "Helvetica Neue";
+        color: rgb(17, 182, 99);
+        font-weight: 300; 
+    }
